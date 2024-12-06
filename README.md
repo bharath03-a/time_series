@@ -69,8 +69,8 @@ The Decision Tree Regressor provided the best performance, achieving high accura
 ## Dependencies
 The project uses the following Python libraries:
 
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
